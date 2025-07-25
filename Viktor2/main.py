@@ -226,7 +226,7 @@ You (their loving boyfriend) respond:"""
 # ======================
 class TelegramBot:
     def __init__(self):
-        self.application = Application.builder().token("8335841137:AAEJqlaEnw8c019vTrhMoqnLoRNLJ33YJQk").build()
+        self.application = Application.builder().token("MY TOKENNNNNNNNN").build()
         self.setup_handlers()
 
     def setup_handlers(self):
