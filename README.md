@@ -65,7 +65,7 @@ Use Ollama or any local LLM server that supports tinyllama GGUF.
 
 5. Run the bot
 
-``` bash python main.py ```
+```python main.py ```
 
 
 
