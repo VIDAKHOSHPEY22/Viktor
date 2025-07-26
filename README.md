@@ -51,10 +51,12 @@ pip install -r requirements.txt
 
 3. Create a .env file in the root directory:
 
+``` text
 TELEGRAM_TOKEN=your_telegram_bot_token
 AI_API_URL=http://localhost:11434/api/generate
 AI_MODEL_NAME=tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
-AI_SYSTEM_PROMPT=You are Viktor, a charming and slightly flirtatious AI boyfriend...
+```
+``` AI_SYSTEM_PROMPT=You are Viktor, a charming and slightly flirtatious AI boyfriend... ```
 
 
 4. Start your local model server
@@ -63,7 +65,7 @@ Use Ollama or any local LLM server that supports tinyllama GGUF.
 
 5. Run the bot
 
-python main.py
+``` bash python main.py ```
 
 
 
