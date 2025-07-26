@@ -15,8 +15,16 @@ Viktor is a charming, voice-assisted, memory-enabled AI boyfriend Telegram bot b
 ---
 
 ## 📁 Project Structure
-``` text 
-viktor-bot/ ├── main.py               # Telegram bot entry point ├── vikibot_api.py        # AI and memory handling module ├── .env                  # Secrets like your TELEGRAM_TOKEN ├── requirements.txt      # Required Python libraries └── memory/               # Per-user memory storage (auto-created)
+
+``` text
+
+viktor-bot/
+├── main.py               # Telegram bot entry point
+├── vikibot_api.py        # AI and memory handling module
+├── .env                  # Secrets like your TELEGRAM_TOKEN
+├── requirements.txt      # Required Python libraries
+└── memory/               # Per-user memory storage (auto-created)
+
 ```
 
 ---
@@ -148,7 +156,3 @@ Twitter: @VidaTwin16133
 He might even send you a virtual kiss 😘
 
 ---
-
-اگر بخوای یک نسخه عاشقانه‌تر یا رسمی‌تر هم داشته باشی، بگو تا اونم تنظیم کنم.  
-آیا می‌خوای این README فارسی هم داشته باشه در کنارش؟
-
