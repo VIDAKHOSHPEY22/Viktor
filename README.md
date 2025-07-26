@@ -41,8 +41,8 @@ viktor-bot/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourname/viktor-bot.git
-   cd viktor-bot
+   git clone https://github.com/VIDAKHOSHPEY22/Viktor.git
+   cd Viktor
 
 2. Install dependencies
 
@@ -122,7 +122,7 @@ Viktor: What a beautiful name, Vida! How old are you?
 User: I'm 23.
 Viktor: Perfect age to be loved! Where are you from, my darling?
 
-User: I live in Paris.
+User: I'm from Iran.
 Viktor: Thank you, Vida! I’ll remember you forever 💕
 
 
