@@ -2,3 +2,16 @@ python-telegram-bot==20.3
 requests==2.31.0
 python-dotenv==1.0.0
 pytz==2023.3
+
+
+
+TELEGRAM_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+API_URL=http://localhost:5000/chat
+API_KEY=your_secret_api_key
+LLAMA_MODEL_PATH=E:\viktor\models\tinyllama\tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
+LLAMA_CONTEXT_SIZE=2048
+TYPING_DELAY=1.2
+BOT_NAME=Viktor
+BOT_NICKNAME=Viki
+BOT_ROLE=boyfriend
+BOT_LANGUAGE=en
